@@ -1,0 +1,2 @@
+FLASK_APP=web
+FLASK_DEBUG=True
